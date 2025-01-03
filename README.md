@@ -24,6 +24,8 @@ Let’s collaborate! 🤝
 
 Connect with me:
 
+email: <a href="niamhmimnagh@gmail.com">niamhmimnagh@gmail.com</a>
+
 <a href="https://scholar.google.com/citations?user=UZsdnXQAAAAJ&hl=en&oi=ao">Google Scholar</a>
 
-
+<a href="https://www.linkedin.com/in/niamh-mimnagh-b60492161/">LinkedIn</a>
