@@ -1,16 +1,21 @@
-## Hi there 👋
+🎓 Postdoctoral Researcher | Data Scientist | Statistician
+📍 Specialising in predictive modelling, Bayesian statistics, and machine learning applied to agriculture, ecology, and animal health.
 
-<!--
-**niamhmimnagh/niamhmimnagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 My research focuses on:
 
-Here are some ideas to get you started:
+ * Disease Prediction: Building models to predict and mitigate outbreaks in livestock, with a focus on diseases like BVD.
+ * Machine Learning: Developing advanced classifiers, anomaly detectors, and survival analysis methods for imbalanced datasets.
+ * Bayesian Methods: Extending hierarchical models for population estimation and disease monitoring.
+    
+🛠️ Passionate about creating accessible tools for researchers, including R packages for statistical modelling and data visualisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Stats blogger <a href="https://simplifyingstats.wordpress.com/">Simplifying Statistics</a>, making complex statistical concepts easy to understand, and sharing some of my current projects.
+
+💡 Projects:
+
+  * Multi-stage BVD prediction models.
+  * R package development (e.g., multi-species N-mixture models).
+  * Digitising historical data (e.g., the 1854 cholera map).
+    
+🌱 Always learning and exploring new ways to apply statistics to real-world problems.
+Let’s collaborate! 🤝
