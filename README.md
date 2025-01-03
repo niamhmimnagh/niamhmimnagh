@@ -19,4 +19,5 @@
   * Digitising historical data (e.g., the 1854 cholera map).
     
 🌱 Always learning and exploring new ways to apply statistics to real-world problems.
+
 Let’s collaborate! 🤝
