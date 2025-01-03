@@ -10,7 +10,7 @@
     
 🛠️ Passionate about creating accessible tools for researchers, including R packages for statistical modelling and data visualisation.
 
-📊 Stats blogger @ <a href="https://simplifyingstats.wordpress.com/">Simplifying Statistics</a>, making complex statistical concepts easy to understand, and sharing some of my current projects.
+📊 Stats blogger @<a href="https://simplifyingstats.wordpress.com/">Simplifying Statistics</a>, making complex statistical concepts easy to understand, and sharing some of my current projects.
 
 💡 Projects:
 
