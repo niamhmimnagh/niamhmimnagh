@@ -1,4 +1,4 @@
-🎓 Postdoctoral Researcher | Data Scientist | Statistician
+### 🎓 Postdoctoral Researcher | Data Scientist | Statistician
 
 📍 Specialising in predictive modelling, Bayesian statistics, and machine learning applied to agriculture, ecology, and animal health.
 
