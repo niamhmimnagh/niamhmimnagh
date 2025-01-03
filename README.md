@@ -21,3 +21,9 @@
 🌱 Always learning and exploring new ways to apply statistics to real-world problems.
 
 Let’s collaborate! 🤝
+
+Connect with me:
+
+<a href="https://scholar.google.com/citations?user=UZsdnXQAAAAJ&hl=en&oi=ao">Google Scholar</a>
+
+
