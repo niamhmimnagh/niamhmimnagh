@@ -30,10 +30,14 @@ Email me at: <a href="niamhmimnagh@gmail.com">niamhmimnagh@gmail.com</a>
 
 Or connect with me on:
 
-
+<div>
 <a href="https://scholar.google.com/citations?user=UZsdnXQAAAAJ&hl=en&oi=ao">
     <img src="https://github.com/user-attachments/assets/963f3676-22bc-4a5a-8c6a-ce1e596df31d" alt="Google Scholar" width="15" height="15"> Google Scholar
 </a>
+<div>
 
-
-<a href="https://www.linkedin.com/in/niamh-mimnagh-b60492161/">LinkedIn</a>
+<div>
+<a href="https://www.linkedin.com/in/niamh-mimnagh-b60492161/">
+    <img src="https://github.com/user-attachments/assets/e29799d1-b7a6-4253-81f4-7205f36735da" alt="LinkedIn" width="15" height="15"> LinkedIn
+</a>
+<div>
