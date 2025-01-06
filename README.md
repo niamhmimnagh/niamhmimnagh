@@ -16,7 +16,7 @@
 
   * Multi-stage BVD prediction models.
   * R package development (e.g., multi-species N-mixture models).
-  * Digitising and exploring historical data (e.g., the 1854 cholera map, Minard's map of Napoleon's march).
+  * Digitising and exploring historical data (e.g., John Snow's 1854 cholera map, Minard's map of Napoleon's march).
     
 🌱 Always learning and exploring new ways to apply statistics to real-world problems.
 
