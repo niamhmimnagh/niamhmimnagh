@@ -28,7 +28,7 @@ Connect with me on:
 
    <a href="https://scholar.google.com/citations?user=UZsdnXQAAAAJ&hl=en&oi=ao" target="_blank"><img src="https://img.shields.io/badge/-Google Scholar-7289DA?style=for-the-badge&logo=Google Scholar&logoColor=white" target="_blank"></a> 	
   <a href = "mailto:niamhmimnagh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/niamh-mimnagh-b60492161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/niamh-mimnagh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.researchgate.net/profile/Niamh-Mimnagh-2" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a> 
  
 
